@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #1d5888;
-    --secondary-color: #ff993b;
+    --primary-color: #000000;
+    --secondary-color: #ff0000;
     --dark-color: #292929;
     --white-color: #dff3e4;
 }
@@ -71,4 +71,8 @@ main>.container {
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+.rewindLogo {
+    margin-top: 150px;
 }
